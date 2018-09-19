@@ -1,0 +1,5 @@
+SSNNSNSSNNNNSSNS
+We run the information, a byte at a time, through the program.
+The output is in a format that can be fed back into the enigma machine.
+Feeding the output back in as the input will give you back the original message.
+Of course it will be in upper case, but that's OK.
